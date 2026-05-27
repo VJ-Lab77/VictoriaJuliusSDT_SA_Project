@@ -1,0 +1,11 @@
+C:\Users\juliu\source\UserEnterName\UserEnterName\bin\Debug\UserEnterName.exe.config
+C:\Users\juliu\source\UserEnterName\UserEnterName\bin\Debug\UserEnterName.exe
+C:\Users\juliu\source\UserEnterName\UserEnterName\bin\Debug\UserEnterName.pdb
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.csproj.AssemblyReference.cache
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.Form1.resources
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.Properties.Resources.resources
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.csproj.GenerateResource.cache
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.exe
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.pdb
+C:\Users\juliu\source\UserEnterName\UserEnterName\obj\Debug\UserEnterName.exe.config
