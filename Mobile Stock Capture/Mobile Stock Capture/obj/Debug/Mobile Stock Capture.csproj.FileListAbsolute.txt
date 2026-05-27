@@ -1,0 +1,11 @@
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\bin\Debug\Mobile Stock Capture.exe.config
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\bin\Debug\Mobile Stock Capture.exe
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\bin\Debug\Mobile Stock Capture.pdb
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.csproj.AssemblyReference.cache
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile_Stock_Capture.Form1.resources
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile_Stock_Capture.Properties.Resources.resources
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.csproj.GenerateResource.cache
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.exe
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.pdb
+C:\Users\juliu\source\Mobile Stock Capture\Mobile Stock Capture\obj\Debug\Mobile Stock Capture.exe.config
